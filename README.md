@@ -13,7 +13,7 @@ The purpose of the project is to create an interactive webpage using HTML that t
 
 ![Filter_Search.png](https://github.com/smj452/UFOs/blob/main/Static/images/Filter_Search.png)
 
-Here if you filter the search with City as benton and State as ar the following are the results as shown above
+Here if you filter the search with City as "benton", State as "ar" and Country as "US" the following are the results as shown above
 
 - A reset button is set on the top left of the page named "UFO Sightings" to reset the page.
 
